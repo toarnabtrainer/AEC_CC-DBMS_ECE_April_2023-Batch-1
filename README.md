@@ -1,7 +1,7 @@
 # AEC_CC-DBMS_ECE_April_2023 (Batch-1)
 
 **GitHub Link:**<br>
-https://github.com/toarnabtrainer/AEC_CC-DBMS_ECE_April_2023<br>
+https://github.com/toarnabtrainer/AEC_CC-DBMS_ECE_April_2023 (Batch-1)<br>
 or<br>
 https://tinyurl.com/2f99cesm<br>
 
