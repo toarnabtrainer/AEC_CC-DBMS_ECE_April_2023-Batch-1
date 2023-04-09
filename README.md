@@ -12,7 +12,7 @@ https://meet.google.com/ugx-iskt-vbc
 https://tinyurl.com/yetjejhf
 
 
-**Programming Assignment - 1 (15 Minutes)**<br>
+**Programming Assignment - 1 (10 Minutes)**<br>
 Print the following pattern for user given ODD value for n.<br>
 For n = 11<br>
 <pre>
